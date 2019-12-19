@@ -1,0 +1,10 @@
+C:\Users\Konrad\Desktop\Zadanie\bin\Debug\netcoreapp2.0\Zadanie.deps.json
+C:\Users\Konrad\Desktop\Zadanie\bin\Debug\netcoreapp2.0\Zadanie.runtimeconfig.json
+C:\Users\Konrad\Desktop\Zadanie\bin\Debug\netcoreapp2.0\Zadanie.runtimeconfig.dev.json
+C:\Users\Konrad\Desktop\Zadanie\bin\Debug\netcoreapp2.0\Zadanie.dll
+C:\Users\Konrad\Desktop\Zadanie\obj\Debug\netcoreapp2.0\Zadanie.AssemblyInfoInputs.cache
+C:\Users\Konrad\Desktop\Zadanie\obj\Debug\netcoreapp2.0\Zadanie.AssemblyInfo.cs
+C:\Users\Konrad\Desktop\Zadanie\bin\Debug\netcoreapp2.0\Zadanie.pdb
+C:\Users\Konrad\Desktop\Zadanie\obj\Debug\netcoreapp2.0\Zadanie.dll
+C:\Users\Konrad\Desktop\Zadanie\obj\Debug\netcoreapp2.0\Zadanie.pdb
+C:\Users\Konrad\Desktop\Zadanie\obj\Debug\netcoreapp2.0\Zadanie.csprojAssemblyReference.cache
